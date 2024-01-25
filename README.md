@@ -10,12 +10,16 @@ My name is Jonathan Vargas, I'm a Data Analyst with over 5 years of experience. 
 
 In my off time, I enjoy getting out and seeing live music and stand-up comedy or catching up with friends at a brewery. However, I do exhaust my social battery rather quick and am a huge homebody. I love relaxing at home and shutting off my brain to a good movie or playing video games. Anywho, that's me in a short summary, thanks for stopping by! 
 
+### How to reach me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logoColor=white)](mailto:jonvargas157@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonvargas157)
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PosgreSQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
-![DBeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver)
 
 
 ### Tech Stack
@@ -24,6 +28,7 @@ In my off time, I enjoy getting out and seeing live music and stand-up comedy or
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-navy?&logo=tableau&logoColor=white)
+![DBeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver)
 
 <!--
 **jon-vargas/jon-vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
