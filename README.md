@@ -4,7 +4,7 @@
 
 ### :man_technologist: A little about me...
 
-My name is Jonathan Vargas, I'm a Data Analyst with over 5 years of experience. A good portion of my work focuses on data quality and integration, for comparison, it's similar to that of an ETL Engineer. I have a fond interest of data science and analytics and created this GitHub to upload projects I've worked on. Currently trying to improve my knowledge in the realms of regressive techniques and machine learning. I particularly like Python and the vast amount of things you can do with it, so my uploaded projects may stray dependent on my interests. 
+My name is Jonathan Vargas, I'm a Data Analyst with over 5 years of experience. A good portion of my work focuses on data quality and integration, for comparison, it's similar to that of an ETL Engineer. I have a fond interest of data science and analytics and created this GitHub to upload projects I've worked on. Currently trying to improve my knowledge in the realms of regressive techniques and machine learning. I particularly like Python and the vast amount of things you can do with it, so my uploaded projects may stray dependent on my interests. If you'd like to see some of that work, then I gladly invite you to visit my repo [python-projects](https://github.com/jon-vargas/python-projects)
 
 ### <img src="https://media.giphy.com/media/CUFI9TxYuPjAH3m9Rs/giphy.gif" width="30"> Alrighty, enough of that work stuff... 
 
